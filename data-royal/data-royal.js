@@ -1,7 +1,7 @@
 var advcake_int = {
-    domain: '.boticario.com.br',
-    url: 'https://hitbr.acstat.com/boticario/',
-    postbackUrl: 'https://api.advcakebr.com/postback/boticario',
+    domain: advsettings.domain,
+    url: advsettings.url,
+    postbackUrl: advsettings.postbackUrl,
     trackid: 'advcake_trackid',
     partner: 'utm_source',
     webmaster: 'utm_term',
